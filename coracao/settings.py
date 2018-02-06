@@ -25,7 +25,7 @@ SECRET_KEY = '0xn67imecbrszf9f3ig8=#!3tfhr@e)=jwx%6bt90p+m4q)o$k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['clinica.mhalmeida.com']
 
 
 # Application definition
