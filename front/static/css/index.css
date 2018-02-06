@@ -70,9 +70,22 @@ body {
     margin-top: 7rem;
   }
 }
+.container-fluid {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
 .footer {
   background-color: #000;
   height: 100px;
+}
+.gray-bg {
+  background-color: #fafafa;
+}
+a.phone-link {
+  color: #fff;
+}
+a.phone-link:hover {
+  color: #fff;
 }
 
 /*# sourceMappingURL=index.css.map */
